@@ -8,3 +8,16 @@ It will be used to identify important variables that are strong predictors of ch
 Even though overall accuracy will be our primary evaluation metric, we should also mention other metrics like precision, recall, etc. for the different models that can be used for evaluation purposes based on different business objectives. For example, in this problem statement, one business goal can be to build an ML model that identifies customers who'll definitely churn with more accuracy as compared to the ones who'll not churn. Make sure you mention which metric can be used in such scenarios.<br>
 <br>
 We are supposed to recommend strategies to manage customer churn based on our observations.
+
+### Analysis Done:
+Data Description
+Remove Unwanted Rows and Columns
+Remove Zero values present in data
+Univariate analysis
+Segmented Univariate Analysis
+PCA
+Logistic Regression Model
+Decision Trees Model
+Random Forest Model
+Test Data Prediction
+Result Analysis
