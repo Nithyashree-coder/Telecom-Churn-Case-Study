@@ -10,14 +10,14 @@ Even though overall accuracy will be our primary evaluation metric, we should al
 We are supposed to recommend strategies to manage customer churn based on our observations.
 
 ### Analysis Done:
-Data Description
-Remove Unwanted Rows and Columns
-Remove Zero values present in data
-Univariate analysis
-Segmented Univariate Analysis
-PCA
-Logistic Regression Model
-Decision Trees Model
-Random Forest Model
-Test Data Prediction
-Result Analysis
+- Data Description<br>
+- Remove Unwanted Rows and Columns<br>
+- Remove Zero values present in data<br>
+- Univariate analysis<br>
+- Segmented Univariate Analysis<br>
+- PCA<br>
+- Logistic Regression Model<br>
+- Decision Trees Model<br>
+- Random Forest Model<br>
+- Test Data Prediction<br>
+- Result Analysis<br>
